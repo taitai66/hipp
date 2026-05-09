@@ -1,6 +1,6 @@
 # Hierarchical Part-Prototype Learning for Fine-Grained Wildlife-Image Classification (HiPP-Learning)
 
-[![DOI](https://zenodo.org/badge/DOI/<hipp>.svg)](https://doi.org/10.5281/zenodo.20092941)
+[![DOI](https://zenodo.org/badge/DOI/<[hipp-Zenodo-DOI](https://doi.org/10.5281/zenodo.20092941)>.svg)](https://doi.org/10.5281/zenodo.20092941)
 
 This repository contains the official PyTorch implementation for the manuscript "**Hierarchical Part-Prototype Learning for Fine-Grained Wildlife-Image Classification**", submitted to *The Visual Computer*.
 
