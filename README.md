@@ -2,14 +2,14 @@
 
 [![DOI](https://zenodo.org/badge/DOI/<Your-Zenodo-DOI>.svg)](https://doi.org/<Your-Zenodo-DOI>)
 
-[cite_start]This repository contains the official PyTorch implementation for the manuscript "**Hierarchical Part-Prototype Learning for Fine-Grained Wildlife-Image Classification**", submitted to *The Visual Computer*[cite: 87, 141].
+This repository contains the official PyTorch implementation for the manuscript "**Hierarchical Part-Prototype Learning for Fine-Grained Wildlife-Image Classification**", submitted to *The Visual Computer*.
 
 ## 📝 Introduction
-[cite_start]Fine-grained wildlife classification (FGWC) is challenging because visually similar species must be distinguished under complex real-world conditions, such as occlusion, camouflage, blur, and cluttered backgrounds[cite: 145]. 
+Fine-grained wildlife classification (FGWC) is challenging because visually similar species must be distinguished under complex real-world conditions, such as occlusion, camouflage, blur, and cluttered backgrounds. 
 
-[cite_start]To address this problem using image-level labels only, we propose **HiPP-Learning**, a unified framework that learns discriminative part prototypes across multiple semantic stages and progressively aligns them with global object representations[cite: 146]. The framework features two core modules:
-* [cite_start]**Soft Part-Prototype Mining (SPPM):** Discovers semantically meaningful local regions and yields robust part representations while reducing background distraction[cite: 147].
-* [cite_start]**Part-Channel Interactive Attention (PCIA):** Enhances representation learning by jointly modeling part importance and channel responses for adaptive local-global feature fusion[cite: 147].
+To address this problem using image-level labels only, we propose **HiPP-Learning**, a unified framework that learns discriminative part prototypes across multiple semantic stages and progressively aligns them with global object representations. The framework features two core modules:
+**Soft Part-Prototype Mining (SPPM):** Discovers semantically meaningful local regions and yields robust part representations while reducing background distraction.
+* **Part-Channel Interactive Attention (PCIA):** Enhances representation learning by jointly modeling part importance and channel responses for adaptive local-global feature fusion.
 
 ## ⚙️ Environment Setup
 The code has been tested with Python 3.8+ and PyTorch. We recommend using Conda to set up the environment.
@@ -88,10 +88,10 @@ python main.py \
 
 You can download our pre-trained model weights for the four datasets from the following links to reproduce the results in the paper:
 
-* [NXbirds Checkpoint](https://www.google.com/search?q=%23) 
+* [NXbirds Checkpoint](链接: https://pan.baidu.com/s/1FPmpwqjH0WtCpCBw-3uZUw?pwd=y9x4 提取码: y9x4) 
 * [Butterfly200 Checkpoint](链接: https://pan.baidu.com/s/1nh7lQg_zN1V-V0R826DbMw?pwd=qqdm 提取码: qqdm)
-* [Snake135 Checkpoint](https://www.google.com/search?q=%23)
-* [WildFish Checkpoint](https://www.google.com/search?q=%23) 
+* [Snake135 Checkpoint](链接: https://pan.baidu.com/s/1FPmpwqjH0WtCpCBw-3uZUw?pwd=y9x4 提取码: y9x4)
+* [WildFish Checkpoint](链接: https://pan.baidu.com/s/1ftHNQPE2gr8F0ciwL9CfcA?pwd=rfvf 提取码: rfvf) 
 
 ## 🎓 Citation
 
