@@ -15,7 +15,7 @@ from feature.CMAB import CMA_Block
 from feature.ParNetAttention import ParNetAttention
 
 class IndividualLandmarkNet(torch.nn.Module):
-    def __init__(self, init_model: ResNet, num_landmarks: int = 8,
+    def __init__(self, init_model: ResNet, num_landmarks: int = 4,
                  num_classes: int = 2000, landmark_dropout: float = 0.3) -> None:
         """
         Parameters
