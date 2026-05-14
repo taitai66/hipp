@@ -94,17 +94,9 @@ You can download our pre-trained model weights for the four datasets from the fo
 
 ## 🎓 Citation
 
-If you find our code, datasets, or this research helpful for your work, please consider citing our paper:
+If you find our code, datasets, or this research helpful for your work, please consider citing our paper:???
 
-```bibtex
-@article{tang2024hipp,
-  title={Hierarchical Part-Prototype Learning for Fine-Grained Wildlife-Image Classification},
-  author={Tang, Jun and Tai, Xiao and Wang, Bin},
-  journal={The Visual Computer},
-  year={2024}
-}
-
-```
+The repository also states that the released code is directly associated with the manuscript submitted to The Visual Computer and requests users to cite the corresponding manuscript when using the code or models.
 
 ## ✉️ Contact
 
