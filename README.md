@@ -3,8 +3,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20092941.svg)](https://doi.org/10.5281/zenodo.20092941)
 
-This repository contains the official PyTorch implementation for the manuscript "**Hierarchical Part-Prototype Learning for Fine-Grained Wildlife-Image Classification**", submitted to *The Visual Computer*.
-
+This repository contains the official PyTorch implementation for the manuscript "**Hierarchical Part-Prototype Learning for Fine-Grained Wildlife-Image Classification**", submitted to the *Journal of Electronic Imaging*.
 ## 📝 Introduction
 Fine-grained wildlife classification (FGWC) is challenging because visually similar species must be distinguished under complex real-world conditions, such as occlusion, camouflage, blur, and cluttered backgrounds. 
 
@@ -94,10 +93,16 @@ You can download our pre-trained model weights for the four datasets from the fo
 
 ## 🎓 Citation
 
-If you find our code, datasets, or this research helpful for your work, please consider citing our paper:???
+If you find our code, datasets, or this research helpful for your work, please consider citing our paper:
 
-The repository also states that the released code is directly associated with the manuscript submitted to The Visual Computer and requests users to cite the corresponding manuscript when using the code or models.
-
+```bibtex
+@article{tang2026hipplearning,
+  title={Hierarchical part-prototype learning for fine-grained wildlife-image classification},
+  author={Tai, Xiao and Tang, Jun and Wang, Bin},
+  journal={Journal of Electronic Imaging},
+  year={2026},
+  note={Under review}
+}
 ## ✉️ Contact
 
 For any questions regarding the code or the paper, please open an issue or contact the corresponding author at `wangbin@nufe.edu.cn`.
