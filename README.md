@@ -46,7 +46,7 @@ datasets/
 
 ```
 
-*(Note: To comply with the original dataset licenses, we do not distribute the raw image files directly. Please download the raw datasets from their official release repositories (and Kaggle for Snake135). You can then use the exact train/test split files provided in this repository to reorganize them, including the specific 31-class subset we used for WildFish.链接: https://pan.baidu.com/s/1ESn-ZssSLCg2I7wuNxOpQg?pwd=g8bn 提取码: g8bn)*
+*(Note: To comply with the original dataset licenses, we do not distribute the raw image files directly. Please download the raw datasets from their official release repositories (and Kaggle for Snake135). You can then use the exact train/test split files provided in this repository to reorganize them.链接: 链接: https://pan.baidu.com/s/1c99puD7Yn52Ubu0TS82k8A?pwd=d4x6 提取码: d4x6)*
 * ## 🚀 Training & Evaluation
 We provide straightforward commands to reproduce the experiments.
 
