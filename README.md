@@ -41,12 +41,12 @@ datasets/
 │   │   ├── class_002/
 │   │   └── ...
 ├── nxbirds/
-├── wildfish_73/
+├── wildfish/
 └── snake135/
 
 ```
 
-*(Note: For datasets that cannot be directly shared due to licensing, please contact us directly.)
+*(Note: To comply with the original dataset licenses, we do not distribute the raw image files directly. Please download the raw datasets from their official release repositories (and Kaggle for Snake135). You can then use the exact train/test split files provided in this repository to reorganize them, including the specific 31-class subset we used for WildFish.链接: https://pan.baidu.com/s/1ESn-ZssSLCg2I7wuNxOpQg?pwd=g8bn 提取码: g8bn)*
 * ## 🚀 Training & Evaluation
 We provide straightforward commands to reproduce the experiments.
 
